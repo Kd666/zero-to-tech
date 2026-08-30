@@ -9,6 +9,8 @@ out/
 build/
 dist/
 backend/.venv
+backend/__pycache__/
+*.pyc
 # editor
 .vscode/*
 !.vscode/extensions.json
@@ -17,3 +19,4 @@ backend/.venv
 .DS_Store
 *.log
 .env*
+
